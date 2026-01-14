@@ -1,0 +1,44 @@
+{
+  "assessment_id": "CR-U_001-20260115001143",
+  "timestamp": "2026-01-15T00:11:43.919561",
+  "applicant": {
+    "user_id": "U_001",
+    "age": 34,
+    "occupation": "salaried",
+    "account_age_months": 48
+  },
+  "rule_scoring": {
+    "base_score": 244,
+    "ctc_adjustment": 0,
+    "address_adjustment": 0,
+    "total_adjustment": 0,
+    "final_rule_score": 244
+  },
+  "ml_scoring": {
+    "high_risk_probability": 0.0028,
+    "ml_score": 2,
+    "model_auc": 0.686
+  },
+  "network_trust": {
+    "available": false,
+    "ctc_score": 0.5,
+    "components": {},
+    "impact": "Neutral"
+  },
+  "address_stability": {
+    "available": false,
+    "stability_score": 0.5,
+    "tenure_category": "Unknown",
+    "impact": "Neutral"
+  },
+  "decision": {
+    "final_credit_score": 98,
+    "risk_band": "Low",
+    "reason_codes": []
+  },
+  "compliance": {
+    "note": "Score generated using explainable hybrid model. CTC and address signals applied as post-ML adjustments with capped impact.",
+    "ctc_max_impact": "\u00b110% (\u00b1100 points)",
+    "address_max_impact": "\u00b15% (\u00b150 points)"
+  }
+}

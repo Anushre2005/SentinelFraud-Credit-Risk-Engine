@@ -1,0 +1,6 @@
+{
+  "mobile_months": 0.2,
+  "income_variance": 0.3,
+  "utility_on_time_ratio": 0.3,
+  "has_savings": 0.2
+}
