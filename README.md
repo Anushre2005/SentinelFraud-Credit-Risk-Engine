@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 **A hybrid AI-powered credit risk assessment engine combining rule-based scoring with machine learning predictions**
+
 [Project](https://github.com/Anushre2005/SentinelFraud-Credit-Risk-Engine/blob/main/TECHNICAL_DOCUMENTATION.md) • [Installation](#-installation) • [API Reference](#-api-reference) • [Architecture](#-architecture)
 
 </div>
